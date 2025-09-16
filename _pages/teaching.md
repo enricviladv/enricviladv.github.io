@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
 ## Teaching Experience
