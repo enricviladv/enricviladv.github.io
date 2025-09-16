@@ -11,4 +11,6 @@ Welcome to my website. My name is Enric Vila-Villasante and I am a PhD Candidate
 
 I am especially interested in the **process of human capital formation**. In my current research, I use field experiments and survey data to explore the drivers of human capital accumulation in low- and middle-income countries. 
 
-You can download my CV here and contact me via email at e,vila[at]uu.nl
+You can contact me via email at e.vila[at]uu.nl
+
+[Download CV (PDF)](/files/CV_Enric_Vila_Villasante_September_2025.pdf)
