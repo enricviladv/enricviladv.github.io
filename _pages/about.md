@@ -13,4 +13,4 @@ I am especially interested in the **process of human capital formation**. In my 
 
 You can contact me via email at e.vila[at]uu.nl
 
-[Download CV (PDF)](/files/CV_Enric_Vila_Villasante_September_2025.pdf)
+[Download CV (PDF)](/files/CV_Enric_Vila_Villasante_October_2025.pdf)
