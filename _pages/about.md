@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. My name is Enric Vila-Villasante and I am a PhD Candidate in Economics at Utrecht University. My main research interests revolve around the areas of **Education**, **Behavioral**, and **Development Economics**. I have also an interest in **Labor** economics topics.
+Welcome to my website! My name is Enric Vila-Villasante and I am an applied microeconomist with interests in **Education** and **Behavioral** economics in low- and high-income contexts. My main research interests are human capital formation — focusing on the role of parents and teachers — the emergence of socio-emotional skills, and the effects of socio-emotional and cognitive factors on decision-making.
 
-I am especially interested in the **process of human capital formation**. In my current research, I use field experiments and survey data to explore the drivers of human capital accumulation in low- and middle-income countries. 
+In my current research, I use field experiments and survey data to explore the drivers of human capital formation in low- and middle-income countries. For my job market paper, “Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context,” I implemented a lab-in-the-field experiment to study the intergenerational transmission of social preferences and in-group bias in ethnic Bulgarian and ethnic Roma households in Bulgaria.
 
 You can contact me via email at e.vila[at]uu.nl
 
