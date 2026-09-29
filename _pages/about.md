@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Enric Vila-Villasante and I am an applied microeconomist with interests in **Education** and **Behavioral** economics in low- and high-income contexts. My main research interests are human capital formation — focusing on the role of parents and teachers — the emergence of socio-emotional skills, and the effects of socio-emotional and cognitive factors on decision-making.
+I am an applied microeconomist interested in human capital formation, especially in the role of parents and teachers in this process, and the development of socio-emotional skills in both low- and high-income contexts. In my current research, I use field experiments and survey data to explore the drivers of human capital formation in low- and middle-income countries. I aim to do research that advances the knowledge frontier in these topics while still being relevant to policymakers to improve the design and effectiveness of public policies. 
 
-In my current research, I use field experiments and survey data to explore the drivers of human capital formation in low- and middle-income countries. For my job market paper, “Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context,” I implemented a lab-in-the-field experiment to study the intergenerational transmission of social preferences and in-group bias in ethnic Bulgarian and ethnic Roma households in Bulgaria.
+You can contact me via email at enric.vila.econ[at]gmail.com
 
-You can contact me via email at e.vila[at]uu.nl
-
-[Download CV (PDF)](/files/CV_Enric_Vila_Villasante_April_2026.pdf)
+[Download CV (PDF)](/files/_Website__Academic_CV_Enric_Vila_Villasante.pdf)
