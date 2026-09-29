@@ -13,4 +13,4 @@ I am an applied microeconomist interested in human capital formation, especially
 
 You can contact me via email at enric.vila.econ[at]gmail.com
 
-[Download CV (PDF)](/files/_Website__Academic_CV_Enric_Vila_Villasante.pdf)
+[Download CV (PDF)](/files/CV_Website.pdf)
