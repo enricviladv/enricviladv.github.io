@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-## Work in Progress
+## Job Market Paper
 
 - **Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context**
 
-  **JOB MARKET PAPER**
+
 
   <details>
   <summary><strong>Abstract</strong></summary>
@@ -18,6 +18,8 @@ author_profile: true
 
 
   </details>
+
+## Work in Progress
 
 - **Not Too Easy, Not Too Hard: The Effect of Levelled Problem Sets on Mathematics Outcomes** — with G. Gray-Lobe, J. Kassim, J. de Laat and M. Kremer.
 
