@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper: Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context
+## Job Market Paper: 
+
+### Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context
 
 
 
