@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper 
 
- Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context
+**Social Preferences as Human Capital: Intergenerational Transmission in an Ethnically Diverse Context** — [Download paper (PDF)](/files/VilaVillasante_JMP.pdf)
 
   <details>
   <summary><strong>Abstract</strong></summary>
