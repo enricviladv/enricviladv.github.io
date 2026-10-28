@@ -25,6 +25,8 @@ author_profile: true
 
 ## Working Papers
 
- Not Too Easy, Not Too Hard: The Effect of Levelled Problem Sets on Mathematics Outcomes — *with G. Gray-Lobe, J. Kassim, J. de Laat and M. Kremer*.
+**Not Too Easy, Not Too Hard: The Effect of Levelled Problem Sets on Mathematics Outcomes**  
+*with G. Gray-Lobe, J. Kassim, J. de Laat and M. Kremer*
 
- Promoting Early Childhood Education at Home: Experimental Evidence from Kenya — *with G. Gray-Lobe, J. de Laat and M. Kremer*.
+**Promoting Early Childhood Education at Home: Experimental Evidence from Kenya**  
+*with G. Gray-Lobe, J. de Laat and M. Kremer*
