@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 
+### Teaching Assistant, Data Analysis (B.Sc.)
+*Universitat Pompeu Fabra — Fall 2026*
+
+
 
 ### Instructor, Statistics (B.Sc.)
 *Utrecht University — Spring 2023*
